@@ -1,2 +1,779 @@
-# mklivelist
-MK live TV listings
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/CvQCnwZ.png" group-title="INFO",* Fluxus IPTV
+https://archive.org/download/fluxustv/Fluxus_TV.mp4
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/pYWMEWN.png" group-title="INFO",+ Free IPTV
+http://stream.srg-ssr.ch/m/rsj/mp3_128
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/RGeIrMD.png" group-title="INFO",= May.08.2018
+http://stream.srg-ssr.ch/m/rsc_de/mp3_128
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/72tK2FB.png" group-title="INFO",> Like Us!
+https://archive.org/download/fluxustv/Fluxus_TV.mp4
+
+#EXTINF:-1 tvg-logo="http://www.easternrefinishing.com/wp-content/uploads/2016/02/117380-matte-blue-and-white-square-icon-culture-world1-150x150.png" group-title="LABEL",~ World News ~
+http://bbcwssc.ic.llnwd.net/stream/bbcwssc_mp1_ws-einws_backup
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/E2YR6Oa.png" group-title="WORLD NEWS",Al Jazeera (Opt-1)
+http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/E2YR6Oa.png" group-title="WORLD NEWS",Al Jazeera (Opt-2)
+http://199.167.151.237:1935/live/sp15_9.stream/gmswf.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/wY0bIox.png" group-title="WORLD NEWS",Bloomberg TV Europe
+http://cdn-videos.akamaized.net/btv/desktop/akamai/europe/live/primary.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/cgtn_logo.png" group-title="WORLD NEWS",CGTN (Opt-1)
+http://live.cgtn.com/500/prog_index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/cgtn_logo.png" group-title="WORLD NEWS",CGTN (Opt-2)
+http://live.cgtn.com/1000/prog_index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/YEs2cGe.png" group-title="WORLD NEWS",Deutsche Welle
+http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/j55hDLp.png" group-title="WORLD NEWS",France 24
+http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_900.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/78.jpg" group-title="WORLD NEWS",i24news (Opt-1)
+http://stream-03.nyc.dailymotion.com/25/dm/3/x29atae/live-3.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/78.jpg" group-title="WORLD NEWS",i24news (Opt-2)
+http://stream-04.ix7.dailymotion.com/05/dm/3/x29atae/live-4.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/9gHjXmn.png" group-title="WORLD NEWS",NHK World
+http://nhkwtvglobal-i.akamaihd.net/hls/live/263941/nhkwtvglobal/index_1180.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/UjIHTlp.jpg" group-title="WORLD NEWS",Press TV
+http://efusion1-i.akamaihd.net/hls/live/252882/ptven/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/oC2FzqY.png" group-title="WORLD NEWS",Sky News
+http://d59pscns5ugc8.cloudfront.net/cdhls/skynewsamericas/1013/live/06.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/ziJEkGB.png" group-title="WORLD NEWS",TRT World
+http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.ezshield.com/wp-content/uploads/images/differentiators/24-7-icon.png" group-title="LABEL",~ 24/7 ~
+http://stream.dubstep.fm:80/256mp3
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/14060.jpg" group-title="24/7",Adult Swim Animation
+https://adultswim-vodlive.cdn.turner.com/live/daily_animated_1/stream.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/14061.jpg" group-title="24/7",Adult Swim Live Action
+https://adultswim-vodlive.cdn.turner.com/live/daily_liveaction_1/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://is2-ssl.mzstatic.com/image/thumb/Music69/v4/6a/67/f8/6a67f8ab-04d6-8fe6-fb8f-9b0c6e34a34e/source/1200x630bb.jpg" group-title="24/7",Aqua Teen Hunger Force 
+https://adultswim-vodlive.cdn.turner.com/live/aqua-teen/stream.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://when-will.net/images/artikel/2015/september/Black-Jesus.jpg" group-title="24/7",Black Jesus
+http://adultswim-vodlive.cdn.turner.com/live/black-jesus/stream.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/DSBjpDP.jpg" group-title="24/7",Christmas Fireplace
+http://silo.pluto.tv/production/201611/08/58212bb0a4d8f4494bc5b89c/christmasfireplace_master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/n1AJtRokP_w/maxresdefault.jpg" group-title="24/7",Fish Tank
+http://wse.planeta-online.tv:1935/live/channel_3/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="http://img.sharetv.com/shows/standard/home_movies.jpg" group-title="24/7",Home Movies
+https://adultswim-vodlive.cdn.turner.com/live/test-2/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/67/Dethklok2.jpg/250px-Dethklok2.jpg" group-title="24/7",Metalocalypse
+https://adultswim-vodlive.cdn.turner.com/live/test-3/stream.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/SgoRKIpGIs0/maxresdefault.jpg" group-title="24/7",Mr. Pickles
+http://adultswim-vodlive.cdn.turner.com/live/mr-pickles/stream.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/eYOSmkO.jpg" group-title="24/7",Off The Air
+http://adultswim-vodlive.cdn.turner.com/off-the-air/stream.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://userscontent2.emaze.com/images/3aad53e1-b1ed-4615-b73f-5da38c50f186/b6e7a922-ea23-4d64-aaa1-47f1ad5ce794.png" group-title="24/7",Rick and Morty
+http://adultswim-vodlive.cdn.turner.com/live/rick-and-morty/stream.m3u8
+
+#EXTINF:-1 tvg-logo="http://i0.kym-cdn.com/entries/icons/facebook/000/015/339/Robot_Chicken.jpg" group-title="24/7",Robot Chicken 
+https://adultswim-vodlive.cdn.turner.com/live/robot-chicken/stream.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.pinimg.com/originals/d6/8c/dd/d68cdd473f7a56f574b7514e24fbc1ce.jpg" group-title="24/7",Squidbillies
+https://adultswim-vodlive.cdn.turner.com/live/squidbillies/stream_7.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Steven_Universe_logo.svg/1200px-Steven_Universe_logo.svg.png" group-title="24/7",Steven Universe
+https://live.ponies.fr/hls/sug-hd/sug.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://vignette2.wikia.nocookie.net/theericandreshow/images/6/69/The_Eric_Andre_Logo.png" group-title="24/7",The Eric Andre Show
+http://adultswim-vodlive.cdn.turner.com/live/eric-andre/stream.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/4835.jpg" group-title="24/7",The Venture Bros.
+http://adultswim-vodlive.cdn.turner.com/the-venture-bros/stream.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/4874.png" group-title="24/7",Tim and Eric
+http://adultswim-vodlive.cdn.turner.com/tim-and-eric/stream.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://s3.amazonaws.com/zenga001/images/320x180/f8dfc370-a87a-477c-8ab8-46e356653ab4.jpg" group-title="24/7",Toonami
+http://54.255.155.24:1935/Live/_definst_/amlst:sweetbcha1novD327L240P/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a0/Williams_Street.png" group-title="24/7",Williams Stream
+http://adultswim-vodlive.cdn.turner.com/live/williams-stream/stream_html5.m3u8
+
+#EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/originals/bd/bd/d8/bdbdd86c306e0105d2e0564f0ae60d10.png" group-title="LABEL",~ USA TV ~
+http://www.lengua.com/anthems/USA.mp3
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/CFHtVxO.png" group-title="USA",360 North
+http://wowzaprod3-i.akamaihd.net/hls/live/252236/2147483647_360north_247/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.bwwstatic.com/columnpic8/68A712D9-947A-736C-71EB2CE018913E52.jpg" group-title="USA",A&E
+http://bigdaveddns.xyz:8080/live/123456/654321/4941.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Qt5F8Uf.jpg" group-title="USA",ABC (Opt-1)
+http://usaiptv.ddns.net:9090/load/007a51965aec/9.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Qt5F8Uf.jpg" group-title="USA",ABC (Opt-2)
+https://klive-a.akamaihd.net/dc-1/live/hls/p/2306121/e/1_gesowtz8/sd/6000/t/y1SPmwgq_dJfURQEoU8kUA/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Qt5F8Uf.jpg" group-title="USA",ABC (Opt-3)
+http://bigdaveddns.xyz:8080/live/123456/654321/4943.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/p06PmVt.png" group-title="USA",ABC News
+https://abclive1-lh.akamaihd.net/i/abc_preview04@425079/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/p36I0cu.png" group-title="USA",Action Sports 4U
+http://151.80.20.150:1935/actionsports4u/actionsports4u/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://web-cdn.blivenyc.com/generic/rcu.app-store-icon.jpg" group-title="USA",AKC TV 
+https://video.blivenyc.com/broadcast/2061/22/file-858k.m3u8
+
+#EXTINF:-1 tvg-logo="http://wickedhorror.thunderroadinc.netdna-cdn.com/wp-content/uploads/2015/06/amc_logo.png" group-title="USA",AMC
+http://bigdaveddns.xyz:8080/live/123456/654321/6383.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.cjmproductions.com/wp-content/uploads/2016/04/logobar-amgtv-clr.png" group-title="USA",AMGTV
+rtmp://cp212391.live.edgefcs.net/live/T02027-amgtv@120244 swfUrl=http://vp.telvue.com/extra/jwplayer.swf swfVfy=1 live=1 pageUrl=http://vp.telvue.com/player?id=T02027&video=57269&mini=1&autoplay=true timeout=15
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Animal_Planet.png/1024px-Animal_Planet.png" group-title="USA",Animal Planet 
+http://bigdaveddns.xyz:8080/live/123456/654321/5866.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/vV08W1S.png" group-title="USA",Atlanta Channel
+http://media4.tripsmarter.com:1935/LiveTV/ACVBHD/chucklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/YajfXJ1.png" group-title="USA",Beach TV - 30A
+http://media4.tripsmarter.com:1935/LiveTV/DTVHD/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/YajfXJ1.png" group-title="USA",Beach TV - Panama City
+http://media4.tripsmarter.com:1935/LiveTV/BTVHD/chucklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/YajfXJ1.png" group-title="USA",Beach TV - Pawleys Island
+http://media4.tripsmarter.com:1935/LiveTV/MTVHD/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/FlYod8J.png" group-title="USA",Big Ten Network
+http://bigdaveddns.xyz:8080/live/123456/654321/4957.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/nSMaujc.png" group-title="USA",Bowie TV
+http://granicusliveus3-a.akamaihd.net/cityofbowie/G0466_001/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.bellmedia.ca/wp-content/uploads/2014/02/tv_bravo-490x490.png" group-title="USA",Bravo
+http://bigdaveddns.xyz:8080/live/123456/654321/4956.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/f5ZtDhj.png" group-title="USA",Buffalo TV
+http://na-all15.secdn.net/pegstream3-live/play/c3e1e4c4-7f11-4a54-8b8f-c590a95b4ade/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/BYUtv_logo.svg/1200px-BYUtv_logo.svg.png" group-title="USA",BYUtv
+https://byubhls-i.akamaihd.net/hls/live/267187/byutvhls/master_4064.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/ZKQfV3y.png" group-title="USA",C-SPAN
+http://cspan1-lh.akamaihd.net/i/cspan1_1@304727/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/z4yGp8x.png" group-title="USA",C-SPAN 2
+http://cspan2-lh.akamaihd.net/i/cspan2_1@304728/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/PgkXesQ.png" group-title="USA",C-SPAN 3
+http://cspan3-lh.akamaihd.net/i/cspan3_1@304729/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/DT3DICU.png" group-title="USA",California Music Channel
+http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCUSA/CCURstream0.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tK3fePv.png" group-title="USA",Cartoons 4U
+http://151.80.20.150:1935/cartoons4u/cartoons4u/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://hd-report.com/wp-content/uploads/2015/12/cbs_logo_promo_lrg.jpg" group-title="USA",CBS
+http://bigdaveddns.xyz:8080/live/123456/654321/7744.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/MH7kNnl.png" group-title="USA",CBS News (Opt-1)
+http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/MH7kNnl.png" group-title="USA",CBS News (Opt-2)
+https://www.cbsnews.com/common/video/dai_prod.m3u8
+
+#EXTINF:-1 tvg-logo="https://wwwimage-secure.cbsstatic.com/thumbnails/photos/w1200-h630-c1200:630/blog/87fdad6e1b37da4a_cbs_sports_hq_1920.jpg" group-title="USA",CBS Sports HQ
+https://cbssportsdc-i.akamaihd.net/hls/live/518856/dc_1/desktop.m3u8|X-Forwarded-For=209.239.112.104
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/CGTN-America_Logo.png/1200px-CGTN-America_Logo.png" group-title="USA",CGTN America
+http://api.new.livestream.com/accounts/7082210/events/7115682/live.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/AgddyCM.png" group-title="USA",Channel 7
+http://radio.7chan.org:8000/CH7
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/09/Charge%21_network_logo.png" group-title="USA",Charge! (Geo)
+https://usgeowall.sinclairstoryline.com/channel/37eb732888614810b512fdd82604244e.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-images-1.medium.com/max/1412/1*8TFZ5znjPDeV9A82CC7njg.png" group-title="USA",Cheddar
+https://content.uplynk.com/channel/4ee18bd581dc4d3b90303e0cb9beeb0f.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.classicartsshowcase.org/cas/wp-content/themes/cas/images/logo.png" group-title="USA",Classic Arts Showcase
+https://classicarts.global.ssl.fastly.net/live/cas/master_3000k.m3u8
+
+#EXTINF:-1 tvg-logo="http://pluto.tv.s3.amazonaws.com/assets/images/channels/1e9ec725-8ff7-2e4a-092e-11de3a4515e9-ClassicToons_thumb.jpg" group-title="USA",Classic Toons TV
+http://stitcher.pluto.tv/stitch/hls/channel/562ea53fa9060c5a7d463e74/master.m3u8?deviceType=%2C%2C&deviceMake=&deviceModel=&sid=5b8dde6c-ee63-40c0-8a6c-81595c7a920c&deviceId=29556502-e2a5-45de-8deb-3b3dfa36b936_e62c9abb601b4ed5&deviceVersion=7.1.1_25&appVersion=3.5.1&deviceDNT=0&userId=&advertisingId=6e7a218c-1bf7-46bf-b486-0902a3cd5a1c&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Qf54pnv.png" group-title="USA",Classic TV 4U
+http://nyc01.netcasterstream.com:8081/dashtv/classictv4u/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://sbgi.net/wp-content/uploads/2015/11/comet-logo.jpg" group-title="USA",Comet TV (Geo)
+http://usgeowall.sinclairstoryline.com/channel/3e45c6b5354a40f787e0b2aadb0f5d6a.m3u8?tc=1&exp=1614631202&rn=2057716804&ct=c&cid=3e45c6b5354a40f787e0b2aadb0f5d6a&ad=comet&repl=aboi&ad.adUnit=%2FCOMET%2FLivestream_midroll&ad._debug=comet_vmap&ad.ad_rule=1&ad.pmad=12&ad.output=xml_vmap1&sig=b2edfb477155d2588a66e0aecdbebff5a23c90a96e55c831def9a1434a51913b
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/2000px-CNBC_logo.svg.png" group-title="USA",CNBC
+http://93.87.85.71/PLTV/88888888/224/3221226774/index.m3u8?rrsip=93.87.85.10&zoneoffset=0&servicetype=1&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=kMPT1CuzvmP5azfOIIpcU74pEQwVtxY%2FuC5XlCvYDSyNcovykKO5JnJcY39jlvqzPX0aIzOnpikWu3zR45yt8ZrRlLf7DOt3X9zpzG7VTVVPWgPso7mD8mG87PrkwgA9cUL0yoetz%2BvKdx%2Fd54YxqItYB1ayo8ZvEJFS8LuNff4%3D%3A20180117221111%3AUTC%2C667280775442361405%2C89.172.240.222%2C20180117221111%2Curn%3AHuawei%3AliveTV%3AXTV100001815%2CE1AEBA0D093C19B037E317D73D194EA6%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2Cguest%2C0%2Cguest%2C%2C2%2CEND&GuardEncType=2&from=2&hms_devid=4
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://usnewslive.tv/wp-content/uploads/2018/03/Riverwalk_CNN-768x432.jpg" group-title="USA",CNN
+http://149.56.26.63:1935/newswatch/myStream//playlist.m3u8?secureendtime=1525217669&securehash=zDnL1e8y1TKDGt_eO8PhjhJMF8tOhl4tKT3bJjlzEHy4ICPaWwYhvfzSeLaHVxcZ_vx18_jblW7RIcv_fOgl5A==&securestarttime=1525215269
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://moziru.com/images/singer-clipart-country-8.jpg" group-title="USA",Country Music 4U
+http://151.80.20.150:1935/countrymusic4u/countrymusic4u/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/aPGyO9l.png" group-title="USA",Daytona Beach TV
+http://oflash.dfw.swagit.com/live/daytonabeachfl/smil:std-4x3-1-a/chucklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/q66RMSc.png" group-title="USA",Denver 8 TV
+http://granicusliveus8-a.akamaihd.net/denver/G0080_002/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pmcvariety.files.wordpress.com/2015/03/destination-america.jpg" group-title="USA",Destination America
+https://content-ausw4.uplynk.com/channel/db762a708aa64082a610346d36654186/h.m3u8?pbs=7ef756186b5e4775bc6dec15cd74dd06
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/5e/39/ff/5e39ff6639c2a8bd57a20028b84b74c3.jpg" group-title="USA",Discovery Channel
+http://bigdaveddns.xyz:8080/live/123456/654321/6388.m3u8
+
+#EXTINF:-1 tvg-logo="http://cdn.kidscreen.com/wp/wp-content/uploads/2011/03/DisneyJunior.jpg" group-title="USA",Disney Junior
+http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/2.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/xGjchpW.png" group-title="USA",District of Columbia Network
+http://video.oct.dc.gov/out/u/DCN.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/aQpCSh8.png" group-title="USA",District Knowledge Network
+http://video.oct.dc.gov/out/u/96_4.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/844696406006779904/8qEYRQ5H.jpg" group-title="USA",Ditty TV
+http://desktop.dittytv.com/smil:DittyTV.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dA1mbVZ.png" group-title="USA",Documentaries 4U
+http://151.80.20.150:1935/documentaries4u/documentaries4u/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/ZasS7z4.png" group-title="USA",Escambia TV
+http://58bfeaf58405a.streamlock.net/live/escambiacountyfl/smil:std-4x3-1-a/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://media-exp2.licdn.com/mpr/mpr/AAEAAQAAAAAAAAdvAAAAJDk5YzBhMGY2LWZiOWItNDc1My1iNzVlLTlhMDg0ODNhY2M5Yw.png" group-title="USA",Evine Live
+http://shophqlivehls-i.akamaihd.net/hls/live/217490/onair/layer1.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/40qTp7v.jpg" group-title="USA",Film Club
+http://xhot_fartsx.api.channel.livestream.com/3.0/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/outcastdatabase/images/a/ac/Fox_logo.png" group-title="USA",Fox
+http://bigdaveddns.xyz:8080/live/123456/654321/12325.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/EvfdMSA.jpg" group-title="USA",Fox Business Network
+http://fbntve-i.akamaihd.net/hls/live/200667/fbntve/HD.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/MHcgYBr.png" group-title="USA",Fox News Channel
+http://fnctve-i.akamaihd.net/hls/live/200669/fnctve/HD.m3u8
+
+#EXTINF:0 tvg-logo="http://i67.tinypic.com/dnkccm.jpg" group-title="USA",Fox News Talk Radio
+http://fnurtmp-f.akamaihd.net/i/FNRADIO_1@92141/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/PH1Gg4p.png" group-title="USA",Free Speech TV
+https://edge.free-speech-tv-live.top.comcast.net/out/u/fstv.m3u8
+
+#EXTINF:-1 tvg-logo="http://whatchannelfreeform.com/Content/Images/freeform-logo.png" group-title="USA",Freeform
+http://bigdaveddns.xyz:8080/live/123456/654321/12322.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sO6cniL.png" group-title="USA",Fuel TV
+http://wowza2.mysoltv.com:1992/USA_FUEL_HD/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.foxflash.com/sites/default/files/imagecache/240x160/channel/schedule_logos/fxx_chanlo.png" group-title="USA",FXX
+http://bigdaveddns.xyz:8080/live/123456/654321/12320.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/KfsVNlB.png" group-title="USA",Garland TV
+http://oflash-alt.dfw.swagit.com/live/garlandtx/smil:hd-16x9-1-a/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://yousenditcc.s3.amazonaws.com/Golf-Channel-white.png" group-title="USA",Golf Channel
+http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/1896k/prog.m3u8|X-Forwarded-For=209.239.112.104
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://yousenditcc.s3.amazonaws.com/Golf-Channel-white.png" group-title="USA",Golf Channel HD (Opt-1)
+http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/2596k/prog.m3u8|X-Forwarded-For=209.239.112.104
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://yousenditcc.s3.amazonaws.com/Golf-Channel-white.png" group-title="USA",Golf Channel HD (Opt-2)
+http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/4296k/prog.m3u8|X-Forwarded-For=209.239.112.104
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/uxUqIVT.png" group-title="USA",Greenbelt TV
+http://granicusliveus4-a.akamaihd.net/greenbeltmd/G0610_001/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="http://allvectorlogo.com/img/2016/07/hallmark-channel-logo.png" group-title="USA",Hallmark Channel
+http://bigdaveddns.xyz:8080/live/123456/654321/12318.m3u8
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/26/HGTV_LOGO_Generic_Green.png" group-title="USA",HGTV
+http://bigdaveddns.xyz:8080/live/123456/654321/12310.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/05/db/47/05db4700ca7b3dd84b8d9a30e17fde1b.jpg" group-title="USA",History
+http://bigdaveddns.xyz:8080/live/123456/654321/12309.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/hlot5v7.png" group-title="USA",House of Representatives
+http://d3ktuc8v2sjk6m.cloudfront.net/livetv/ngrp:HouseChannel_all/chucklist.m3u8
+
+#EXTINF:-1 tvg-logo="http://huntchannel.tv/wp-content/uploads/2017/10/H-512x512-300x300.png" group-title="USA",Hunt Channel
+https://nimble.huntchannel.tv/abr/huntchannel/live/huntchannelhq/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Impact_Wrestling_Logo.svg/800px-Impact_Wrestling_Logo.svg.png" group-title="USA",Impact Wrestling 
+http://stitcher.pluto.tv/stitch/hls/channel/59b722526996084038c01e1b/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=7&deviceId=-&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+
+#EXTINF:-1 tvg-logo="https://indiewaveentertainment.com/wp-content/uploads/2017/09/logo_square.png" group-title="USA",IndieWave
+https://vcnindiewave.teleosmedia.com/stream/indiewave/indiewave/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/VEd3y4O.png" group-title="USA",InfoWars
+http://infowarslive-lh.akamaihd.net/i/infowarslivestream_1@353459/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uPvJzrz.png" group-title="USA",Investigation Discovery HD
+https://content-ausw3.uplynk.com/channel/a6fe2dd55b3149a6a59154a93e348012/h.m3u8?pbs=a089fc6c8ffc42d081b85ba79b60ab56
+
+#EXTINF:-1 tvg-logo="https://www.jtv.com/on/demandware.static/-/Sites-jtv-Library/default/dw397cbfc6/promo/2017Q3/logo-jtv.png" group-title="USA",Jewelry Television
+http://wowzaprod134-i.akamaihd.net/hls/live/577814/ccddaf02/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://channelpear.com/images/media/8011.jpg" group-title="USA",Jupiter Broadcasting
+http://jblive.videocdn.scaleengine.net/jb-live/play/jblive.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://kartoonfestival.com/wp-content/uploads/2017/04/Pig-Logo-1.png" group-title="USA",Kartoon Fun Time Network
+https://prolivestream.tv/KartoonFunTime.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/0oRXnzz.png" group-title="USA",KBVR TV
+http://klive-a.akamaihd.net/dc-0/live/hls/p/391241/e/0_bthpnu1j/sd/10000/t/YwqLo1YivB_aumq-LxAuWg/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/96POFOB.png" group-title="USA",Key TV
+http://media4.tripsmarter.com:1935/LiveTV/KTVHD/chunklist_w363623166.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/COQM8bM.png" group-title="USA",Kool TV
+http://173.199.158.79:1935/roku/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Fi68GxG.png" group-title="USA",Laurel TV
+https://crimson.ebmcdn.net/laurel/smil:laurel.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="http://forounivers.com/uploads/monthly_2017_02/large.photo.png.5537d7548d087235ccedd61f8b528c75.png" group-title="USA",Lifetime
+http://bigdaveddns.xyz:8080/live/123456/654321/12938.m3u8
+
+#EXTINF:-1 tvg-logo="http://75.146.183.54:2080/Cablecast/Public/Logos/1/MCN-Vimeo-Logo.png" group-title="USA",Metro Cable Network Channel 6
+http://live.mcn6.org:8180/live/CELL-496k-270p/CELL-496k-270p.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/HuFEXXs.png" group-title="USA",Miami TV
+http://oflash.dfw.swagit.com/live/miamibeachfl/smil:std-16x9-1-a/chunklist_w1459206316_b878000.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/G9VKlxx.png" group-title="USA",MLB Network
+http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/PLBEsoK.jpg" group-title="USA",Movee 4U Chicago
+http://nyc01.netcasterstream.com:8081/dashtv/movee4u/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/SvQJJD4.png" group-title="USA",MSNBC
+http://tvemsnbc-lh.akamaihd.net/i/nbcmsnbc_1@122532/index_1296_av-p.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/SvQJJD4.png" group-title="USA",MSNBC HD
+http://tvemsnbc-lh.akamaihd.net/i/nbcmsnbc_1@122532/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://corporate.musicchoice.com/files/1913/8178/7936/MCPlayLogo.png" group-title="USA",Music Choice Play
+http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.nationalgeographic.com/content/dam/magazine/Logos/national-geographic.jpg" group-title="USA",National Geographic
+http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/44.m3u8
+
+#EXTINF:-1 tvg-logo="https://naturevisiontv.com/wp-content/themes/naturevision/images/product/product9.jpg" group-title="USA",NatureVision TV
+https://feed00.pluto.tv/feed03/ngrp:nature.vision.stream_all/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://3.bp.blogspot.com/-nX2b3jumY04/Whrg5s80mGI/AAAAAAAAAGw/vLn4F3h2X5QD3wbGmbLQCAMz71_pteTkQCLcBGAs/s1600/nba-tv.jpg" group-title="USA",NBA TV (Opt-1)
+http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/355.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://3.bp.blogspot.com/-nX2b3jumY04/Whrg5s80mGI/AAAAAAAAAGw/vLn4F3h2X5QD3wbGmbLQCAMz71_pteTkQCLcBGAs/s1600/nba-tv.jpg" group-title="USA",NBA TV (Opt-2)
+http://31.204.150.12:8080/edge/4304/tracks-v1a1/index.m3u8?token=17.18.1487.6d44eab61dcf5b1f0e6fa8f6595ee1bc.1.1.1.641.0.0.71875765cf0ee5df30360b6487a7b6ec
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/NBC_logo.svg/200px-NBC_logo.svg.png" group-title="USA",NBC
+http://bigdaveddns.xyz:8080/live/123456/654321/12295.m3u8
+
+#EXTINF:-1 tvg-logo="https://nbcsportsgrouppressbox.files.wordpress.com/2013/08/nbcsn_acronym_logo_horizontal_finalsmall1.png" group-title="USA",NBC Sports Network
+http://bigdaveddns.xyz:8080/live/123456/654321/12294.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.destinationnetwork.com/images/channel_logos/notv_logo.png" group-title="USA",New Orleans TV
+http://media4.tripsmarter.com:1935/LiveTV/NOTVHD/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pmcdeadline2.files.wordpress.com/2017/06/newsmax-tv-logo.jpg" group-title="USA",Newsmax TV
+http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://newsymain-npgroup.netdna-ssl.com/images/settings/150228249385.jpg" group-title="USA",Newsy 
+https://content.uplynk.com/channel/4bb4901b934c4e029fd4c1abfc766c37.m3u8?ad=newsyweb
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/NFL_Network_logo.svg/1200px-NFL_Network_logo.svg.png" group-title="USA",NFL Network (Opt-1)
+http://live207.budtv.tv:8081/budtv/Nfl_Network_Izzi_177/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/gjBAU2S.png" group-title="USA",NFL Now
+https://svglive3-event.level3.nfl.com/nflent3/live/nfl_now/NFLNOW_1200k.m3u8
+
+#EXTINF:-1 tvg-logo="https://nhl.bamcontent.com/nhlNetwork/images/nhlnetwork.png" group-title="USA",NHL Network
+https://live119.elrobacanales.com/budtv/nhl.network.usa/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Nick_%28Logo%29.png" group-title="USA",Nickelodeon
+http://bigdaveddns.xyz:8080/live/123456/654321/12299.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/Olympic_Channel_logo.png" group-title="USA",Olympic Channel
+https://live.olympicchannel.com/ocs/channel01b/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/OWN_2011_logo.svg/800px-OWN_2011_logo.svg.png" group-title="USA",Oprah Winfrey Network
+http://w3.cdn.anvato.net/live/ephemeral/3QA1gOwdRzqhnwPBUewI5VY7Yd9pnkvb/owny/4296k/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Z918C34.png" group-title="USA",Orange TV
+http://otv3.ocfl.net:1936/OrangeTV/smil:OrangeTV.smil/chunklist_w1007974604_b894100_sleng.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://x.pac-12.com/profiles/pac12/themes/pac12_foundation/images/pac12/networks/network-arizona.jpg" group-title="USA",Pac-12 Arizona
+http://p12a-lh.akamaihd.net/i/arizona_delivery@199730/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i4atv.us/wp-content/uploads/2017/01/1483508572pac-12-bayarea-logo.png.png" group-title="USA",Pac-12 Bay Area
+http://p12b-lh.akamaihd.net/i/bayarea_delivery@429334/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://x.pac-12.com/profiles/pac12/themes/pac12_foundation/images/pac12/networks/network-losangeles.jpg" group-title="USA",Pac-12 Los Angeles
+http://p12l-lh.akamaihd.net/i/la_delivery@425541/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://x.pac-12.com/profiles/pac12/themes/pac12_foundation/images/pac12/networks/network-mountain.jpg" group-title="USA",Pac-12 Mountain
+http://p12m-lh.akamaihd.net/i/mountain_delivery@428912/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://x.pac-12.com/sites/default/files/DigitalOpen_2015.mov.00_00_04_23.Still001__1457742519.jpg" group-title="USA",Pac-12 National
+http://p12n-lh.akamaihd.net/i/network_delivery@428818/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://x.pac-12.com/profiles/pac12/themes/pac12_foundation/images/pac12/networks/network-oregon.jpg" group-title="USA",Pac-12 Oregon
+http://p12o-lh.akamaihd.net/i/oregon_delivery@103261/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://x.pac-12.com/profiles/pac12/themes/pac12_foundation/images/pac12/networks/network-washington.jpg" group-title="USA",Pac-12 Washington
+http://p12w-lh.akamaihd.net/i/washington_delivery@426584/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.resonantpictures.com/wp-content/uploads/2017/08/PBS.png" group-title="USA",PBS
+http://usaiptv.ddns.net:9090/load/007a51965aec/139.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.lagovista.lib.tx.us/PBS%20Kids.jpg/@@images/image.jpeg" group-title="USA",PBS Kids (Geo)
+https://live-cdn.pbskids.org/out/u/aim/wttw.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/IZj3H1x.png" group-title="USA",PGCPS
+http://reflect.live.pgcps.cablecast.tv/live/WIFI-696k-360p/WIFI-696k-360p.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://corporate.pluto.tv/wp-content/uploads/2016/05/Pluto_logo-white_675x675.png" group-title="USA",Pluto TV Headlines
+http://stitcher.pluto.tv/stitch/hls/channel/5268abcd0ce20a8472000114/master.m3u8?sid=web24157571521&deviceType=web&deviceMake=web&deviceVersion=1&deviceId=web24163643069&appVersion=5.2.7&deviceDNT=web&deviceModel=web
+
+#EXTINF:-1 tvg-logo="https://cdn1.thr.com/sites/default/files/imagecache/landscape_928x523/2014/09/pop-logo.jpg" group-title="USA",Pop
+https://bcsecurelivehls-i.akamaihd.net/hls/live/505785/5367332899001/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.oneilloutsidenow.com/Pursuit_Channel_Logo_Cropped.jpg" group-title="USA",Pursuit Channel
+https://hlsdpi-cdn-as4.totalstream.net/dpilive/vidilliontv/vtv/pursuitlive/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://securecdn.pymnts.com/wp-content/uploads/2017/03/QVC.jpg" group-title="USA",QVC (Opt-1)
+http://qvclvp2.mmdlive.lldns.net/qvclvp2/cd5bfeab75a34ba18301490388fd4daa/manifest.m3u8
+
+#EXTINF:-1 tvg-logo="https://securecdn.pymnts.com/wp-content/uploads/2017/03/QVC.jpg" group-title="USA",QVC (Opt-1)
+http://qvclvp2.mmdlive.lldns.net/qvclvp2/9aa645c89c5447a8937537011e8f8d0d/manifest.m3u8
+
+#EXTINF:-1 tvg-logo="http://qvc.scene7.com/is/image/QVC/pic/hp/HP_Channel_QVC2.png?fmt=png-alpha&$aemfeatbrands$&fmt=png-alpha" group-title="USA",QVC 2
+http://qvclvp2.mmdlive.lldns.net/qvclvp2/1af4a53fda904f6c90a4389c8fe92dc0/manifest.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lS4CAgN.png" group-title="USA",Radio U 88.7 Colombus
+http://cdn-live-egress.rbmtv.com/rightbrainmedia-live-109/mp4:radioutv_all/rightbrainmedia-live-109/radioutv1/chunks.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/498725821213712384/D0lKsJF7.jpeg" group-title="USA",Random Channel
+http://stream.memesyndicate.com/live/thx/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/A4GMBN6.png" group-title="USA",Red Bull TV
+http://rbtvdiglinear-i.akamaihd.net/hls/live/241719/ATfallback/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/b8prEVt.png" group-title="USA",Rev'n
+http://dcunilive28-lh.akamaihd.net/i/dclive_1@624563/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/buPAXY7.png" group-title="USA",RT America
+https://secure-streams.akamaized.net/rt-usa/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/ZJW0Dwj.png" group-title="USA",RyeTV
+http://oflash.dfw.swagit.com/live/ryeny/smil:std-4x3-1-a/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/CB5uBB3.png" group-title="USA",Sci-Fi 4U
+http://151.80.20.150:1935/scifitv/scifitv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.alticemediasolutions.com/sites/default/files/styles/homepage_news___features/public/sci-science.jpg" group-title="USA",Science Channel
+http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/42.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/75m9Pt8.png" group-title="USA",Seattle Channel
+https://wowzaprod121-i.akamaihd.net/hls/live/266526/d2ea1f60/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/xz5bm8f.png" group-title="USA",Seminole TV
+http://video.seminolecountyfl.gov:1935/live/SGTV/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/818139653631053825/XL0qCuSm.jpg" group-title="USA",Shop LC
+https://dpfbqenlgkzdh.cloudfront.net/shoplc_backup/live.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/gzLFN7L.png" group-title="USA",Southeastern Channel
+http://147.174.13.196/live/WIFI-1296k-540p/WIFI-1296k-540p.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/p7Nszad.jpg" group-title="USA",Spydar TV
+http://nyc01.netcasterstream.com:8081/dashtv/spydartv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.bestappletv.com/wp-content/uploads/2017/10/STADIUM_LOGO-620x350_2-620x350.jpg" group-title="USA",Stadium Sports Network
+https://04476b7c682c4da8b8b4bfe23ef879c1.midas.us-east-1.amazonaws.com/v1/master/61a556f78e4547c8ab5c6297ea291d6350767ca2/Mux/hls/live/522512/mux_4/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/zgKclrq.png" group-title="USA",SupTV
+http://91.134.238.137/live/main/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Fbzbq1y.png" group-title="USA",TBD
+http://content.uplynk.com/channel/1831163f97674328ad9f4b4814ed39c5.m3u8?tc=1&exp=1614631202&rn=614441536&ct=c&cid=1831163f97674328ad9f4b4814ed39c5&ad=comet&ad.adUnit=%2FTBD%2FLivestream_midroll&ad._debug=TBDNET_ssai_livestream_midroll&ad.ad_rule=1&ad.pmad=12&ad.output=xml_vmap1&sig=5d194a4e4c5a4d59023d6a39a2ba5ba82dcd817b615e9f82115c41d9b26ffd0a
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/YchkfWy.png" group-title="USA",Temple TV
+http://streaming.temple.edu/tutvlive/_definst_/mp4:play/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/SgOM8vF.png" group-title="USA",The Blaze
+http://theblaze.global.ssl.fastly.net/live/blaze-dvr/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/AwNQHqC.png" group-title="USA",The Country Network
+https://dcunilive2-lh.akamaihd.net/i/dclive_1@390829/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/D4vJyy9.png" group-title="USA",The Weather Channel
+http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/Travel_Channel_logo.png" group-title="USA",Travel Channel
+http://bigdaveddns.xyz:8080/live/123456/654321/12280.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/3QAaaZj.png" group-title="USA",TSTV
+http://tstv-stream.tsm.utexas.edu/hls/livestream_hi/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/nAkvH0H.png" group-title="USA",Tuff TV
+http://cdn-live-egress.campfyre.tv/rightbrainmedia-live-604/mp4:Tufftv_all/rightbrainmedia-live-604/Tufftv2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/152nsYA.png" group-title="USA",TVW
+http://d3ktuc8v2sjk6m.cloudfront.net/livetv/ngrp:TVWAIR_all/chucklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/152nsYA.png" group-title="USA",TVW-2
+http://d3ktuc8v2sjk6m.cloudfront.net/livetv/ngrp:TVW2_all/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/TWiT.svg/130px-TWiT.svg.png" group-title="USA",TWiT
+http://iphone-streaming.ustream.tv/uhls/1524/streams/live/iphone/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/prowrestling/images/3/36/USA_Network_logo.png" group-title="USA",USA Network
+http://bigdaveddns.xyz:8080/live/123456/654321/4998.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/7zieaS3.png" group-title="USA",Voice of America
+http://voa-lh.akamaihd.net/i/voa_mpls_tvmc3_3@320295/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/648868667615133696/kPvB4ye4.png" group-title="USA",VTV Channel 6 Colorado
+http://hls.ksl.com/t/strata/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EIe6mlh.png" group-title="USA",Weather 4U
+http://151.80.20.150:1935/weather4u/weather4u/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/uUb3vwe.png" group-title="USA",Weather Nation
+http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/xcKpheC.png" group-title="USA",Western 4U
+http://nyc01.netcasterstream.com:8081/dashtv/western4u/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/oTHXLf8.png" group-title="USA",WHOH TV
+http://oflash.dfw.swagit.com/live/hastingsonhudsonny/smil:std-4x3-1-a/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://livedetroit.tv/TVPops/images/WPHRst.jpg" group-title="USA",WHPR TV 33 Detroit
+http://162.244.81.156:1935/whprtv33roku/whprtv33roku/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/mF6qbpX.png" group-title="USA",Wilderness Channel (USA)
+http://pkg2.frontlayer.net/pseudolive/fl821095/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://wingsdomain.com/_shared/icons/wingsdomain-subscribe-icon.png" group-title="LABEL",~ USA Local News ~
+http://167.88.154.169/wnycfm-tunein
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img.new.livestream.com/events/00000000003a4452/bd7082af-14f2-4019-bde9-a081a1d56330_30000.jpg" group-title="USA LOCAL",NBC News 13 (Albany)
+http://api.new.livestream.com/accounts/12240447/events/3818578/live.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/KXAN_Austin_News_logo.png" group-title="USA LOCAL",KXAN News (Austin)
+https://api.new.livestream.com/accounts/1506296/events/1569171/live.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/14551.jpg" group-title="USA LOCAL",NBC 11 News (Bay Area)
+http://kntvlive-f.akamaihd.net/i/kntvb2_1@15530/index_1286_av-p.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/4059.jpg" group-title="USA LOCAL",KTVU FOX 2 News (Bay Area)
+http://play-prod1.live.anvato.net/server/play/ktvutestctg/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/888431997017661440/fj0FLr2O_400x400.jpg" group-title="USA LOCAL",WBZ 4 News (Boston)
+http://cbslocaltv-i.akamaihd.net/hls/live/221461/WBZTV/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://tribwpix.files.wordpress.com/2015/09/2048x1536-news-copy.png" group-title="USA LOCAL",PIX 11 News (New York)
+https://api.new.livestream.com/accounts/8896933/events/3104530/live.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://cdn.news12.com/polopoly_fs/1.8890451.1464300188!/httpImage/image.jpg_gen/derivatives/display_600/image.jpg" group-title="USA LOCAL",News 12 (The Bronx)
+http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12BX
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://cdn.news12.com/polopoly_fs/1.8890454.1464300091!/httpImage/image.jpg_gen/derivatives/display_600/image.jpg" group-title="USA LOCAL",News 12 (Brooklyn)
+http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12KN
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://cdn.news12.com/polopoly_fs/1.8890451.1464300188!/httpImage/image.jpg_gen/derivatives/display_600/image.jpg" group-title="USA LOCAL",News 12 (Long Island - Traffic)
+http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12TW_LI
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://cdn.news12.com/polopoly_fs/1.8890451.1464300188!/httpImage/image.jpg_gen/derivatives/display_600/image.jpg" group-title="USA LOCAL",News 12 (Long Island - News)
+http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12LI_WEST
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://cdn.news12.com/polopoly_fs/1.8890451.1464300188!/httpImage/image.jpg_gen/derivatives/display_600/image.jpg" group-title="USA LOCAL",News 12 (Connecticut)
+http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12CT_WEST
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://cdn.news12.com/polopoly_fs/1.8890451.1464300188!/httpImage/image.jpg_gen/derivatives/display_600/image.jpg" group-title="USA LOCAL",News 12 (Connecticut - Traffic)
+http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12TW_CT
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://cdn.news12.com/polopoly_fs/1.8890451.1464300188!/httpImage/image.jpg_gen/derivatives/display_600/image.jpg" group-title="USA LOCAL",News 12 (New York City - Traffic)
+http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12TW_NYC
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://cdn.news12.com/polopoly_fs/1.8890451.1464300188!/httpImage/image.jpg_gen/derivatives/display_600/image.jpg" group-title="USA LOCAL",News 12 (New Jersey - Traffic)
+http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12TW_NJ
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://cdn.news12.com/polopoly_fs/1.8890451.1464300188!/httpImage/image.jpg_gen/derivatives/display_600/image.jpg" group-title="USA LOCAL",News 12 (New Jersey)
+http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12NJ_CENTRAL
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://cdn.news12.com/polopoly_fs/1.8890451.1464300188!/httpImage/image.jpg_gen/derivatives/display_600/image.jpg" group-title="USA LOCAL",News 12 (Hudson Valley)
+http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12HV
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://cdn.news12.com/polopoly_fs/1.8890451.1464300188!/httpImage/image.jpg_gen/derivatives/display_600/image.jpg" group-title="USA LOCAL",News 12 (Westchester)
+http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12WH_WESTCHESTER
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/64/WCCB_CW_logo.png" group-title="USA LOCAL",WCCB News (Charlotte)
+http://api.new.livestream.com/accounts/8522553/events/live/live.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ac/WMAQ_Logo_2012.png" group-title="USA LOCAL",NBC 5 News (Chicago)
+http://wmaqlive-f.akamaihd.net/i/wmaqa1_1@22923/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://cdn.tribtv.com/slates/wgntv.png" group-title="USA LOCAL",WGN 9 News (Chicago)
+http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/index_750_av-b.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/9/9e/KREX-TV_2005.jpg" group-title="USA LOCAL",CBS 5 News (Colorado)
+http://krex-apple-live.hls.adaptive.level3.net/stream0/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/14439.jpeg" group-title="USA LOCAL",KCNC CBS 4 News (Denver)
+http://play-prod1.live.anvato.net/server/play/cbslocal-kcnc-dfp/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.mycitykitchen.org/wp-content/uploads/2013/02/WVIT_NBC30.png" group-title="USA LOCAL",WVIT 30 News (Hartford)
+http://wvitlive-f.akamaihd.net/i/wvitb2_1@71164/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette4.wikia.nocookie.net/logopedia/images/9/9a/News_12_Hudson_Valley_Logo_From_December_2010.jpg" group-title="USA LOCAL",News 12 (Hudson Valley)
+http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12TW_WC
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://tribwttv.files.wordpress.com/2017/03/cropped-cbs4512.png" group-title="USA LOCAL",CBS 4 News (Indianapolis)
+http://wttv-lh.akamaihd.net:80/i/WTTVBreaking_1@333494/index_3000_av-b.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://jacksonville.com/sites/default/files/styles/teaser__620x350/public/field/image/749636_web1_msms_CBS47.jpg" group-title="USA LOCAL",CBS 47 News (Jacksonville)
+http://cmghlslive-i.akamaihd.net:80/hls/live/224714/WJAX/904k/prog.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://cdn.news12.com/polopoly_fs/1.8890313.1464300030!/httpImage/image.jpg_gen/derivatives/display_600/image.jpg" group-title="USA LOCAL",News 12 (Long Island)
+http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12LI_WEST
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cbsla.files.wordpress.com/2016/04/streaminglivenow_kcal_700x350.jpg" group-title="USA LOCAL",KCAL 9 News (Los Angeles)
+http://play-prod1.live.anvato.net/server/play/cbslocal-kcal-dfp/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/378800000325487344/6ac857e448216556d44d2fd900157131_400x400.jpeg" group-title="USA LOCAL",KAMC (Lubbock)
+http://kamc-apple-live.hls.adaptive.level3.net/stream0/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/43/WJMN-TV_2006_Logo.png/200px-WJMN-TV_2006_Logo.png" group-title="USA LOCAL",CBS 3 News (Michigan)
+http://wjmn-apple-live.hls.adaptive.level3.net/stream0/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img.new.livestream.com/events/000000000068bfe1/9052fb7b-99ee-4dcd-87fd-c1102bc5592e_30000.jpg" group-title="USA LOCAL",WXXV News 25 (Mississippi)
+http://api.new.livestream.com/accounts/22998687/events/6864865/live.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://uncubed.com/wp-content/uploads/2014/07/cbslocal.png" group-title="USA LOCAL",CBS 2 News (New York)
+http://play-prod1.live.anvato.net/server/play/cbslocal-wcbsx-dfp/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://content.secondspace.com/ktvz/img/KTVZ_Widget.png" group-title="USA LOCAL",NewsChannel 21 (Oregon)
+http://api.new.livestream.com/accounts/19128364/events/5285531/live.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://forums.tvnewstalk.net/data/avatars/l/0/148.jpg" group-title="USA LOCAL",ABC News 9 (Orlando)
+http://cmghlslive-i.akamaihd.net/hls/live/224711/WFTV/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/media/C2hgdt4W8AEAJ3D.jpg" group-title="USA LOCAL",NBC 10 News (Philadelphia)
+http://wcaulive-f.akamaihd.net/i/wcaua1_1@13991/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.roku.com/developer_channels/prod/08461d1960ae46d64b6d02c4741db3001e25ea5465c16de15bee08ff8ca2f0cf.png" group-title="USA LOCAL",Channel 11 News WPXI (Pittsburgh)
+http://svc-lvanvato-cxtv-wpxi.cmgvideo.com/wpxi/2564k/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/lTqLxtj.png" group-title="USA LOCAL",KOIN 6 News (Portland)
+http://api.new.livestream.com/accounts/1864610/events/1649849/broadcasts/169938631.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://kutv2productions.com/images/KUTV2Productions_SplashImage_972x510.jpg" group-title="USA LOCAL",CBS 2 (Salt Lake City)
+http://ktvx-apple-live.hls.adaptive.level3.net/stream0/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img.new.livestream.com/events/000000000033e132/78ad5b5b-7d1f-4f38-b1af-1060355a4061_30000.jpg" group-title="USA LOCAL",KOB 4 News (Santa Fe)
+https://api.new.livestream.com/accounts/10066184/events/3399986/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/disney/images/1/1e/Abc7_logo_rgb_color.png" group-title="USA LOCAL",ABC 7 News (Sarasota)
+http://live.field59.com/wwsb/ngrp:wwsb1_all/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.king5.com/img/resize/content.king5.com/photo/2017/05/08/NewsApp_1494277356709_9406804_ver1.0.PNG" group-title="USA LOCAL",King5 News (Seattle)
+http://king-lh.akamaihd.net/i/KING_Shows_1@77350/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/eb/Komo%2B4%2BNEWS%2Blogo%2BRENDERED2.jpg" group-title="USA LOCAL",KOMO 4 News (Seattle)
+https://content.uplynk.com/2c88dfe19e1447e6a6aa27e8e143a140.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/14552.jpg" group-title="USA LOCAL",CBS 13 News (Stockton)
+http://play-prod1.live.anvato.net/server/play/cbslocal-kovrx-dfp/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.adweek.com/tvspy/wp-content/uploads/sites/4/2013/06/wttg-logo_304x200.jpg" group-title="USA LOCAL",Fox 5 News (Washington DC)
+https://api.new.livestream.com/accounts/2363281/events/1763520/live.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Logo_of_WRC-TV.png" group-title="USA LOCAL",NBC 4 News (Washington DC)
+https://wrclive-f.akamaihd.net/i/wrcb1_1@46880/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tech-notes.tv/2010/Logos/KRGV%20Logo%20Color.jpg" group-title="USA LOCAL",KRGV 5 (Weslaco)
+http://krgv-apple-live.hls.adaptive.level3.net/stream0/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://desdelapelouse.files.wordpress.com/2012/06/canada.png" group-title="LABEL",~ Canada TV ~
+http://www.lengua.com/anthems/Canada.mp3
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/8i171Ju.png" group-title="CANADA",Assemblee Nationale du Quebec
+http://diffusionm4.assnat.qc.ca/canal9/250.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://watchmobiletv.com/assets/thumbs/CANADA_TAMILS_TV.png" group-title="CANADA",Canada Tamils TV
+http://live.streamjo.com:1935/cctv/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://catvmedia.ca/wp-content/uploads/2018/01/HD.jpg" group-title="CANADA",Canadian Arab TV
+http://192.226.228.32:8080/hls/catv/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/cWKg7ub.png" group-title="CANADA",Canal Savoir
+http://stream.canalsavoir.tv/livestream/stream.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.cbc.ca/mediacentre/content/images/News_header-750x360.jpg" group-title="CANADA",CBC News (VOD)
+http://cbcnewshd-f.akamaihd.net/i/cbcnews_1@8981/index_2500_av-p.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.fibreop.ca/binaries/small/content/gallery/common_en/tv/channel-logos/cbcnews-300.png" group-title="CANADA",CBC News Network (Geo)
+https://livecbcdai-i.akamaihd.net/hls/live/567245/event2/CBCNN/master6.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/UyQ9pH4.png" group-title="CANADA",CHCH
+https://playback.bcovlive.io/de75f0915ed24d95b904857ce535ac39/us-west-2/5644964886001/profile_1/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/HaIKVj0.png" group-title="CANADA",CPAC
+http://bcoveliveios-i.akamaihd.net/hls/live/248519/1242843915001_1/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/6XYQtyN.png" group-title="CANADA",CTV News Live 1
+http://ams-lp10.9c9media.com/hls-live/livepkgr/_definst_/liveNews/News18.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/6XYQtyN.png" group-title="CANADA",CTV News Live 2
+http://ams-lp7.9c9media.com/hls-live/livepkgr/_definst_/liveNews/News28.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/6XYQtyN.png" group-title="CANADA",CTV News Live 3
+http://ams-lp6.9c9media.com/hls-live/livepkgr/_definst_/liveNews/News38.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/6XYQtyN.png" group-title="CANADA",CTV News Live 4
+http://ams-lp5.9c9media.com/hls-live/livepkgr/_definst_/liveNews/News48.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/BUiwYlr.png" group-title="CANADA",Space
+http://pe-ak-lp01a-9c9media.akamaized.net/live/Space/p/hls/00000201/689924a518f2c776/index/2176f3ac/live/stream/h264/v1/3500000/manifest.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://ctvm.info/wp-content/uploads/2016/10/TQ-logoCorpoRGB.jpg" group-title="CANADA",Tele-Quebec
+https://teleqmmd.mmdlive.lldns.net/teleqmmd/f386e3b206814e1f8c8c1c71c0f8e748/chunklist_b2592000.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/AMYIUUl.png" group-title="CANADA",The Shopping Channel
+http://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/jeopardyhistory/images/3/32/Cjon_ntv_st_john.png" group-title="CANADA",NTV Newfoundland
+http://1-fss-fso35.streamhoster.com/lv_ntv/_definst_/broadcast1/chunklist.m3u8
+
